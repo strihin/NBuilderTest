@@ -1,0 +1,17 @@
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\NBuilderTest.exe.config
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\NBuilderTest.exe
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\NBuilderTest.pdb
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\EntityFramework.dll
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\Faker.NET4.dll
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\FizzWare.NBuilder.dll
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\EntityFramework.xml
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\programming\NBuilderTest\NBuilderTest\bin\Debug\de-DE\Faker.NET4.resources.dll
+D:\programming\NBuilderTest\NBuilderTest\obj\Debug\NBuilderTest.csprojResolveAssemblyReference.cache
+D:\programming\NBuilderTest\NBuilderTest\obj\Debug\NBuilderTest.exe
+D:\programming\NBuilderTest\NBuilderTest\obj\Debug\NBuilderTest.pdb
